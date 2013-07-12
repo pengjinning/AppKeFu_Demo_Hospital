@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget33"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main" >
+
+   <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+	<com.appkefu.appkehu_1.GridViewInterceptor
+		android:id="@+id/gride"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:layout_below="@+id/linearLayout1"
+	    android:layout_marginLeft="20dip"
+	    android:numColumns="3"
+	    android:verticalSpacing= "1dip"
+	    android:horizontalSpacing="1dip"/> 
+		    
+
+</RelativeLayout>

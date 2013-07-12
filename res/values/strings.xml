@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">北京西美整形医院(案例)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="image_description">image description</string>
+    <string name="image_text">image_text</string>
+
+    <!--
+         医院简介、专家团队、活动专题、微整形案例、美丽导航、在线预约、在线咨询
+			双眼皮、开眼角、其他美容项目
+    -->
+    <string name="hos_intro">医院简介</string>
+    <string name="hos_pro">专家团队</string>
+    <string name="hos_subject">活动专题</string>
+    <string name="hos_case">微整形案例</string>
+    <string name="hos_nav">美丽导航</string>
+    <string name="hos_yuyue">在线预约</string>
+    <string name="hos_chat">在线咨询</string>
+    <string name="hos_shuang">双眼皮</string>
+    <string name="hos_kaiyanjiao">开眼角</string>
+    <string name="hos_others">其他美容项目</string>
+    <string name="title_activity_hos_intro">HosIntroActivity</string>
+    <string name="title_activity_hos_pro">HosProActivity</string>
+    <string name="title_activity_hos_subject">HosSubjectActivity</string>
+    <string name="title_activity_hos_nav">HosNavActivity</string>
+    <string name="title_activity_hos_yuyue">HosYuyueActivity</string>
+    <string name="title_activity_hos_shuang">HosShuangActivity</string>
+    <string name="title_activity_hos_kaiyanjiao">HosKaiyanjiaoActivity</string>
+    <string name="title_activity_hos_case">HosCaseActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="button_back">返回</string>
+    <string name="chat"></string>
+    
+    <string name="hos_introduction">  北京西美整形医院是由国家卫生部门正式批准的医疗美容机构，执业许可证号： 001532110102417119 ， 北京市医疗整形美容业协会理事单位。开设整形美容、口腔美容、激光美容三大科室，每个科室都能做到“专” 而“精”。
+经营理念： 诚信、精湛、精品 
+　 西美整形医院以 诚信为先，将心比心换位思考，把 真正让顾客满意，作为立足的根本。对技术精益求精， 力求每做一例手术都能成为精品。以最短的恢复时间达到真正满意的效果。 
+专家： 各有拿手绝活 
+　 选用医生的条件： 是“精” 而不是“广”。 也就是说我们选用医生不是让他从头到脚什么手术都做，而 是看他是否有经典的拿手绝活，我们要让每一个走进西美的求美者，都能有一位对她所做项目很权威的专家，亲 自为她设计、操作，让顾客达到满意的效果这是我们的目标。
+衡量医生的标准： 是真正让顾客满意。不管医生的职称有多高，也不管医生的学问有多深，能让顾客以最 短的恢复时间达到真正满意的效果，这样的医生才是好医生 , 才称得上专家；
+医院要求医生不仅有坚实的医学理论基础，丰富的整形美容临床经验，更重要的是他们能真正地从顾客的角 度出发，真正地把医学科学、精湛的技艺 、审美艺术、创造性的艺术形象思维和顾客的生理条件、对美的要求 及顾客心理等诸多因素综合分析，从而达到对每一位顾客都能进行个性化、人性化的设计，让每一位顾客 都能 以最短的恢复时间达到真正满意的效果。 这是西美培 养 医师、录用医生的标准。
+设备：国际领先 </string>
+	
+    
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

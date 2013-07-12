@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.appkefu.appkehu_1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:name="com.appkefu.appkehu_1.AppApplication"        
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.appkefu.appkehu_1.HospitalOnlineActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosIntroActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosProActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosSubjectActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosNavActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosYuyueActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosShuangActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosKaiyanjiaoActivity"
+            android:theme="@android:style/Theme.NoTitleBar"  >
+        </activity>
+        <activity
+            android:name="com.appkefu.appkehu_1.HosCaseActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        
+        <activity
+            android:name="com.appkefu.lib.ChatViewActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        
+        <service android:name="com.appkefu.lib.service.AppService" />       
+        <meta-data android:name="appkey" android:value="239844cdcaefb9946b51c4ea7c7cd532"/>      
+
+        <activity
+            android:name="com.appkefu.appkehu_1.LoginActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+       
+    </application>
+
+</manifest>
