@@ -1,4 +1,36 @@
-AppKeFu_Demo_Hospital
-=====================
+±¾Ô´ÂëÎ¢¿Í·þ¿Í»§¶Ë°¸ÀýÔ´Âë£¬½ö¹©¿ª·¢ÕßÑ§Ï°½»Á÷ÓÃ
 
-å¾®å®¢æœ(AppKeFu.com)å®˜æ–¹Demoï¼ŒåŒ»ç–—ç‰ˆ
+Î¢¿Í·þ£¬¹ÙÍø£ºhttp://AppKeFu.com£¬ÖÂÁ¦Îª¹úÄÚ¿ª·¢ÕßÌá¹©ÌåÑé×îºÃ¡¢·þÎñ×îÎÈ¶¨µÄÒÆ¶¯AppÔÚÏß¿Í·þ£¬
+ÊÇ×¨ÒµµÄÒÆ¶¯¿ª·¢ÕßÆ½Ì¨¡£
+
+1.
+Î¢¿Í·þ£¬¼¯³Éµ½ÄúAppÀïµÄÔÚÏß¿Í·þ.
+	¹úÄÚÊ×¿îAppÀïµÄÔÚÏß¿Í·þ£¬Ö§³ÖÎÄ×Ö¡¢±íÇé¡¢Í¼Æ¬¡¢ÓïÒôÁÄÌì¡£
+Á¢Ö¾ÎªÒÆ¶¯¿ª·¢ÕßÌá¹©×îºÃÔÚÏß¿Í·þ£¬¸öÈË¿ª·¢ÕßÓÀ¾ÃÃâ·Ñ¡£
+
+2.
+Ö§³Ö¶àÆ½Ì¨Android/iOS
+	ÎÒÃÇÌá¹© ¡°¼´Ê±Í¨Ñ¶SDK¡±ºÍ¡°¿Í·þ¿Í»§¶Ë¡±¡£ Ö»Ðè½«ÎÒÃÇµÄSDKÕûºÏµ½ÄúµÄAppÀï£¬ÓÃ»§Ö»ÐèÒª°²×°ÄúµÄApp£¬
+¼´¿ÉÊµÏÖÔÚÏß×ÉÑ¯ºÍ·´À¡£¬Ê¡Ê±¡¢Ê¡Á¦£¬ÓÖÊ¡Ç®¡£ ÓÃÖÜµ½µÄ·þÎñÁô×¡ÄúµÄÓÃ»§
+
+3.
+»úÆ÷ÈËÖÇÄÜ¿Í·þ
+	ÎÒÃÇÌá¹©Î¢ÐÅ¹«ÖÚÕËºÅÖÇÄÜ¶Ô½ÓºÍÖÇÄÜ¿Í·þ»úÆ÷ÈË¶¨ÖÆ¡£×öµ½7*24Ð¡Ê±£¬ÖÜµ½·þÎñ¡£
+
+
+¸ü¶àÊ¹ÓÃ°ïÖúÖ¸ÄÏ£º
+	http://appkefu.com/AppKeFu/tutorial-android.html
+
+
+Î¢¿Í·þÊ¹ÓÃ²½Öè£º 
+1.µÇÂ¼¹ÜÀíºóÌ¨  :http://appkefu.com/AppKeFu/admin
+2.´´½¨Ó¦ÓÃ  
+3.·ÖÅä¿Í·þ 
+4.ÏÂÔØSDKºÍ¿Í·þ¿Í»§¶Ë
+
+
+
+
+
+
+
