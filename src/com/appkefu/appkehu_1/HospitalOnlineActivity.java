@@ -60,8 +60,8 @@ public class HospitalOnlineActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		//与admin会话,实际应用中需要将admin替换为真实的客服用户名			
-		mKefuUsername = "admin";
+		//实际应用中需要将your_kefu_username替换为真实的客服用户名			
+		mKefuUsername = "your_kefu_username";
 				
 		GridViewInterceptor gv = (GridViewInterceptor) findViewById(R.id.gride);
 		array = getData();
